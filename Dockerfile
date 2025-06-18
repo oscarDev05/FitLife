@@ -14,12 +14,12 @@ COPY . .
 RUN dotnet restore ProyectoTFG/ProyectoTFG.csproj
 
 # Publicamos el proyecto
-RUN dotnet publish ProyectoTFG/ProyectoTFG.csproj -c Release -o /app/out
+RUN dotnet publish ProyectoTFG/ProyectoTFG.csproj -c Release -o /app/publish
 
-# Etapa final: copiamos archivos de publicación
+# Etapa final: runtime con los archivos publicados
 FROM base AS final
 WORKDIR /app
-COPY --from=build /app/out .
+COPY --from=build /app/publish .
 
 # Ejecutamos la app
 ENTRYPOINT ["dotnet", "ProyectoTFG.dll"]
