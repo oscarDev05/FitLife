@@ -1,0 +1,197 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\asset-manifest.json",
+      "PackagePath": "staticwebassets\\asset-manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\logo192.png",
+      "PackagePath": "staticwebassets\\logo192.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\logo512.png",
+      "PackagePath": "staticwebassets\\logo512.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\resources\\anadirPost.png",
+      "PackagePath": "staticwebassets\\resources\\anadirPost.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\resources\\cerrar.png",
+      "PackagePath": "staticwebassets\\resources\\cerrar.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\resources\\dislike.png",
+      "PackagePath": "staticwebassets\\resources\\dislike.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\resources\\enviar.png",
+      "PackagePath": "staticwebassets\\resources\\enviar.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\resources\\flecha_arriba.png",
+      "PackagePath": "staticwebassets\\resources\\flecha_arriba.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\resources\\foto_perfil_default.png",
+      "PackagePath": "staticwebassets\\resources\\foto_perfil_default.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\resources\\inicio.png",
+      "PackagePath": "staticwebassets\\resources\\inicio.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\resources\\interrogante.png",
+      "PackagePath": "staticwebassets\\resources\\interrogante.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\resources\\like.png",
+      "PackagePath": "staticwebassets\\resources\\like.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\resources\\logo.png",
+      "PackagePath": "staticwebassets\\resources\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\resources\\lupa.png",
+      "PackagePath": "staticwebassets\\resources\\lupa.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\resources\\mensajes.png",
+      "PackagePath": "staticwebassets\\resources\\mensajes.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\resources\\modPerfil.png",
+      "PackagePath": "staticwebassets\\resources\\modPerfil.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\resources\\mostrarPasswd.png",
+      "PackagePath": "staticwebassets\\resources\\mostrarPasswd.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\resources\\nombre_aplicacion.jpg",
+      "PackagePath": "staticwebassets\\resources\\nombre_aplicacion.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\resources\\ocultarPasswd.png",
+      "PackagePath": "staticwebassets\\resources\\ocultarPasswd.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\resources\\papelera1.png",
+      "PackagePath": "staticwebassets\\resources\\papelera1.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\resources\\papelera2png.png",
+      "PackagePath": "staticwebassets\\resources\\papelera2png.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\resources\\perfil.png",
+      "PackagePath": "staticwebassets\\resources\\perfil.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\resources\\persona1.jpg",
+      "PackagePath": "staticwebassets\\resources\\persona1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\resources\\persona2.jpg",
+      "PackagePath": "staticwebassets\\resources\\persona2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\resources\\persona3.jpg",
+      "PackagePath": "staticwebassets\\resources\\persona3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\resources\\portada1.jpg",
+      "PackagePath": "staticwebassets\\resources\\portada1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\resources\\portada2.jpg",
+      "PackagePath": "staticwebassets\\resources\\portada2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\resources\\rutina.png",
+      "PackagePath": "staticwebassets\\resources\\rutina.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\robots.txt",
+      "PackagePath": "staticwebassets\\robots.txt"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\static\\css\\main.6afa021c.css",
+      "PackagePath": "staticwebassets\\static\\css\\main.6afa021c.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\static\\css\\main.6afa021c.css.map",
+      "PackagePath": "staticwebassets\\static\\css\\main.6afa021c.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\static\\js\\239.dfdb0d71.chunk.js",
+      "PackagePath": "staticwebassets\\static\\js\\239.dfdb0d71.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\static\\js\\239.dfdb0d71.chunk.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\static\\js\\239.dfdb0d71.chunk.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\static\\js\\239.dfdb0d71.chunk.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\239.dfdb0d71.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\static\\js\\455.c3314a56.chunk.js",
+      "PackagePath": "staticwebassets\\static\\js\\455.c3314a56.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\static\\js\\455.c3314a56.chunk.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\455.c3314a56.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\static\\js\\977.c3d99690.chunk.js",
+      "PackagePath": "staticwebassets\\static\\js\\977.c3d99690.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\static\\js\\977.c3d99690.chunk.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\static\\js\\977.c3d99690.chunk.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\static\\js\\977.c3d99690.chunk.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\977.c3d99690.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\static\\js\\main.98a07671.js",
+      "PackagePath": "staticwebassets\\static\\js\\main.98a07671.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\static\\js\\main.98a07671.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\static\\js\\main.98a07671.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\backend-main\\backend-main\\ProyectoTFG\\wwwroot\\static\\js\\main.98a07671.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\main.98a07671.js.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ProyectoTFG.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ProyectoTFG.props",
+      "PackagePath": "build\\ProyectoTFG.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ProyectoTFG.props",
+      "PackagePath": "buildMultiTargeting\\ProyectoTFG.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ProyectoTFG.props",
+      "PackagePath": "buildTransitive\\ProyectoTFG.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

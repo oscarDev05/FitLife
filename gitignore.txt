@@ -1,0 +1,11 @@
+# Ignorar carpetas de VS
+.vs/
+*.user
+*.suo
+
+# Ignorar carpetas de compilación
+bin/
+obj/
+
+# Ignorar carpetas de publicación
+out/
